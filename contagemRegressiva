@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class contagemregressiva {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        //Solicite ao usuário um número inicial
+        System.out.println("Digite um número: ");
+        int n = sc.nextInt();
+
+        // utilize um loop while para fazer uma contagem regressiva até 0.
+        while (n >= 0) {
+            System.out.println(n);
+            n--;
+        }
+    }
+}
