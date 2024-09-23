@@ -1,1 +1,3 @@
 # LacosDeRepeti-o
+
+#iniciandoLacoDeRepeticao
